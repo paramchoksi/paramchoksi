@@ -1,4 +1,4 @@
-![](![https://github.com/paramchoksi/bio_image/blob/main/welcome1.png?raw=true)
+![](https://github.com/paramchoksi/bio_image/blob/main/welcome1.png?raw=true)
 
 ##
 - 🏸 Love to play Badminton.
