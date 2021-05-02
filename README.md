@@ -2,7 +2,7 @@
 
 ##
 - 🏸 Love to play Badminton.
-- 📖 Learning Machine Learning
+- 📖 Learning Machine Learning 🤖
 - 📫 Connect with me on 
     * 🏗️ [LinkdIn](https://www.linkedin.com/in/param-choksi-9b95b214a/)
 
