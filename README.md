@@ -1,4 +1,4 @@
-![](https://github.com/paramchoksi/resume/blob/main/welcome1.png?raw=true)
+![intro_card](https://github.com/paramchoksi/resume/blob/main/welcome1.png?raw=true)
 
 ##
 - 🏸 Love to play Badminton.
